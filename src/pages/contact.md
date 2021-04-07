@@ -56,6 +56,7 @@ sections:
           - Website Design
           - Digital Advertising
           - lorem-ipsum
+          - lorem-ipsum
         is_required: true
       - type: form_field
         input_type: textarea
