@@ -55,6 +55,7 @@ sections:
           - Content Creation
           - Website Design
           - Digital Advertising
+          - lorem-ipsum
         is_required: true
       - type: form_field
         input_type: textarea
