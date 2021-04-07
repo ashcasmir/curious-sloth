@@ -12,7 +12,7 @@ sections:
   - type: portfolio_section
     section_id: latest-projects
     title: Our Services
-    subtitle: Explore case studies
+    subtitle: We offer the following services
     layout_style: tiles
     projects_number: 6
     view_all_label: View All
