@@ -22,9 +22,9 @@ sections:
 
       4/84, MA Koil Street.
 
-      St.Thomas mount
-      Chennai, TN  600016
-      1-416-566-5961
+      St.Thomas mount \<br>
+      Chennai, TN  600016 \<br>
+      1-416-566-5961 \<br>
       [Get directions →](https://goo.gl/maps/eh6fn7JjMS4vYs337)
     form_id: contactForm
     form_action: /thank-you
