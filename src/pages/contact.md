@@ -52,7 +52,7 @@ sections:
         label: What services are you looking for?
         default_value: Please select
         options:
-          - Branding
+          - Content Creation
           - Design
           - Digital
         is_required: true
