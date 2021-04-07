@@ -54,7 +54,7 @@ sections:
         options:
           - Content Creation
           - Website Design
-          - Digital
+          - Digital Advertising
         is_required: true
       - type: form_field
         input_type: textarea
