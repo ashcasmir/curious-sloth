@@ -1,5 +1,5 @@
 ---
-title: Search Marketing
+title: Digital Advertising
 subtitle: 'SEO, Google & Bing Ads'
 date: '2021-02-06'
 thumb_image: images/work-photography-magazine-1-thumb.jpg
