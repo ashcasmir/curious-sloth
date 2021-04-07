@@ -53,7 +53,7 @@ sections:
         default_value: Please select
         options:
           - Content Creation
-          - Design
+          - Website Design
           - Digital
         is_required: true
       - type: form_field
