@@ -55,7 +55,7 @@ sections:
           - Content Creation
           - Website Design
           - Digital Advertising
-          - On-pa
+          - SEO
           - lorem-ipsum
         is_required: true
       - type: form_field
