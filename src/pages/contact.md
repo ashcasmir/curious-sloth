@@ -55,6 +55,7 @@ sections:
           - Branding
           - Design
           - Digital
+        is_required: true
       - type: form_field
         input_type: textarea
         name: message
