@@ -10,9 +10,6 @@ sections:
     image_alt: Subtle 1
     caption: Edho Pratama on Unsplash
     width: wide
-  - type: image_section
-    image_alt: Subtle 3
-    width: wide
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
