@@ -11,31 +11,6 @@ sections:
     caption: Edho Pratama on Unsplash
     width: wide
   - type: text_section
-    content: >+
-      ## SEO Ranking Superiority
-
-
-      Produce a competitive advantage through building visibility of your
-      website through search engine ranking superiority over time.
-
-
-      ## &#xA;Dependable Traffic Source
-
-
-
-      Receive website visitors daily that are highly engaged and already looking
-      for your solutions, answers to their questions and your products.
-
-
-
-
-      ## Repeatable Results
-
-
-      Produce measurable results and showcase continual traffic growth through
-      quarterly reports. Improve long-term relevancy & ranking on Google.
-
-  - type: text_section
     content: >-
       Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
       massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
