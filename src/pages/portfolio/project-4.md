@@ -32,7 +32,6 @@ sections:
       Deliver value to your audience with your social network marketing to
       become an integral part of your customers' lives.
   - type: image_section
-    image: images/work-book-2.jpg
     image_alt: Nature Mockup Magazine 2
     width: wide
   - type: text_section
