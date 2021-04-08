@@ -28,7 +28,7 @@ sections:
       become an integral part of your customers' lives.
   - type: image_section
     image_alt: Nature Mockup Magazine 2
-    width: wide
+    width: regular
     image: /images/1.png
   - type: text_section
   - type: image_section
