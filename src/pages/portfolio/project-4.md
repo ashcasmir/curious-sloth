@@ -5,11 +5,6 @@ date: '2020-05-10'
 thumb_image: /images/1.png
 thumb_image_alt: Nature Mockup Magazine preview
 sections:
-  - type: image_section
-    image: /images/1.png
-    image_alt: Nature Mockup Magazine 1
-    caption: This is the caption of the image
-    width: wide
   - type: text_section
     content: >
       #### Multi-Network Strategy
