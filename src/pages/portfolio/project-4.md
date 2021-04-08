@@ -1,6 +1,6 @@
 ---
 title: Social Media Marketing
-subtitle: Editorial Design
+subtitle: "Build Valued Relationships With Your Customers\_Across Social Networks"
 date: '2020-05-10'
 thumb_image: images/work-book-1-thumb.jpg
 thumb_image_alt: Nature Mockup Magazine preview
