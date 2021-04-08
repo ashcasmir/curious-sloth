@@ -3,7 +3,7 @@ title: Website Design
 subtitle: "Deep User Experience (UX) &\_Technology Combined"
 date: '2020-04-10'
 thumb_image: /images/3.png
-thumb_image_alt: The Book preview
+thumb_image_alt: Website Design
 sections:
   - type: image_section
     image: /images/3.png
