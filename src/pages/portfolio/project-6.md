@@ -2,7 +2,7 @@
 title: Search Marketing
 subtitle: "Drive Traffic from Highly\_Targeted Visitors"
 date: '2021-02-06'
-thumb_image: /images/rainy-spruce.jpg
+thumb_image: /images/edho-pratama-yeB9jDmHm6M-unsplash.jpg
 thumb_image_alt: Subtle preview
 sections:
   - type: image_section
