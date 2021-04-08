@@ -6,7 +6,7 @@ thumb_image: /images/2.png
 thumb_image_alt: Nature Magazine preview
 sections:
   - type: image_section
-    image: /images/pexels-liza-summer-6348041.jpg
+    image: /images/2.png
     image_alt: Nature Magazine 1
     caption: This is the caption of the image
     width: wide
