@@ -2,7 +2,7 @@
 title: Online Advertising
 subtitle: "Reach Your Customers Where\_They Are"
 date: '2021-01-10'
-thumb_image: /images/1.png
+thumb_image: /images/2.png
 thumb_image_alt: Nature Magazine preview
 sections:
   - type: image_section
