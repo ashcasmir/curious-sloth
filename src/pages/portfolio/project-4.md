@@ -34,6 +34,10 @@ sections:
     image_alt: Nature Mockup Magazine 3
     width: wide
   - type: text_section
+  - image_alt: lorem-ipsum
+    caption: lorem-ipsum
+    width: regular
+    type: image_section
 seo:
   type: stackbit_page_meta
   title: Nature Mockup Magazine
