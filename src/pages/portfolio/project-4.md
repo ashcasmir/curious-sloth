@@ -5,6 +5,10 @@ date: '2020-05-10'
 thumb_image: /images/1.png
 thumb_image_alt: Nature Mockup Magazine preview
 sections:
+  - type: image_section
+    image_alt: Nature Mockup Magazine 2
+    width: regular
+    image: /images/1.png
   - type: text_section
     content: >
       #### Multi-Network Strategy
@@ -26,10 +30,6 @@ sections:
 
       Deliver value to your audience with your social network marketing to
       become an integral part of your customers' lives.
-  - type: image_section
-    image_alt: Nature Mockup Magazine 2
-    width: regular
-    image: /images/1.png
   - type: text_section
   - type: image_section
     image_alt: Nature Mockup Magazine 3
