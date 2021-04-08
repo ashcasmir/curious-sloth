@@ -10,12 +10,6 @@ sections:
     image_alt: Subtle 1
     caption: Edho Pratama on Unsplash
     width: wide
-  - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
   - type: image_section
     image_alt: Subtle 3
     width: wide
