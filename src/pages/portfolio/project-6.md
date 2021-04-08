@@ -11,15 +11,7 @@ sections:
     caption: Edho Pratama on Unsplash
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: "#### SEO Ranking Superiority\n\n\r\nProduce a competitive advantage through building visibility of your website through search engine ranking superiority over time.\n\n#### Dependable Traffic Source&#xD;&#xA;\n\nReceive website visitors daily that are highly engaged and already looking for your solutions, answers to their questions and your products.\n\n#### Repeatable Results&#xD;&#xA;\n\nProduce measurable results and showcase continual traffic growth through quarterly reports. Improve long-term relevancy & ranking on Google.\n\n"
 seo:
   type: stackbit_page_meta
   title: Subtle
