@@ -1,6 +1,6 @@
 ---
 title: Website Design
-subtitle: Editorial Design
+subtitle: "Deep User Experience (UX) &\_Technology Combined"
 date: '2020-04-10'
 thumb_image: images/work-book-cover-1-thumb.jpg
 thumb_image_alt: The Book preview
