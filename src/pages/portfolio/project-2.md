@@ -2,7 +2,7 @@
 title: Content Marketing
 subtitle: Engage & connect with your customers through the power of ideas
 date: '2020-03-10'
-thumb_image: images/work-branding-1-thumb.jpg
+thumb_image: /images/4.png
 thumb_image_alt: Aimi preview
 sections:
   - type: image_section
