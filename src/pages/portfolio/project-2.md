@@ -20,10 +20,6 @@ sections:
       massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
       arcu accumsan lorem amet accumsan.
-  - type: image_section
-    image: images/work-branding-3.jpg
-    image_alt: Aimi 3
-    width: wide
 seo:
   type: stackbit_page_meta
   title: Aimi
