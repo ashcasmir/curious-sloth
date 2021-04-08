@@ -1,5 +1,5 @@
 ---
-title: Content Marketing
+title: Content Writing
 subtitle: Engage & connect with your customers through the power of ideas
 date: '2020-03-10'
 thumb_image: /images/4.png
