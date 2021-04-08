@@ -35,10 +35,6 @@ sections:
       Produce measurable results and showcase continual traffic growth through
       quarterly reports. Improve long-term relevancy & ranking on Google.
 
-  - type: image_section
-    image: images/work-photography-magazine-2.jpg
-    image_alt: Subtle 2
-    width: wide
   - type: text_section
     content: >-
       Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
