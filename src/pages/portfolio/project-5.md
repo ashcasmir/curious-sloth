@@ -24,7 +24,6 @@ sections:
   - type: image_section
     image_alt: Nature Magazine 3
     width: wide
-  - type: text_section
 seo:
   type: stackbit_page_meta
   title: Nature Magazine
