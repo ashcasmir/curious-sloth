@@ -11,15 +11,7 @@ sections:
     caption: This is the caption of the image
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: "#### Drive Reliable & Instant Interest\n\n\r\nMake an impact on your marketing quickly by combing ad strategy, ad targeting and campaign planning to build an instant marketing funnel!\n\n\n\n#### Reach A Wider Target Audience&#xD;&#xA;\n\nOnline Ad Campaigns can reach a global market with detailed targeting abilities and many specialized ad networks to choose from.\n\n\n\n#### Consistent & Measurable Traffic&#xD;&#xA;\n\nSending ad traffic to a high-converting landing page or website can be a powerful method for reaching your marketing goals, on demand!\n"
   - type: image_section
     image_alt: Nature Magazine 2
     width: wide
